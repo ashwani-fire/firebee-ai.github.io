@@ -201,6 +201,7 @@ img {
   border-style: none;
 }
 
+
 svg {
   overflow: hidden;
   vertical-align: middle;
@@ -10082,7 +10083,7 @@ header.masthead {
   background-size: cover;
 }
 header.masthead h1 {
-  font-size: 2.25rem;
+  font-size: 1.5rem;
 }
 @media (min-width: 992px) {
   header.masthead {
@@ -10095,12 +10096,12 @@ header.masthead h1 {
     font-size: 1.15rem;
   }
   header.masthead h1 {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 }
 @media (min-width: 1200px) {
   header.masthead h1 {
-    font-size: 3.5rem;
+    font-size: 2.5rem;
   }
 }
 
@@ -10142,4 +10143,10 @@ header.masthead h1 {
 
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
+}
+.ashw{
+  width:250px;
+  height:250pxs;
+  border-radius: 50%;
+
 }
